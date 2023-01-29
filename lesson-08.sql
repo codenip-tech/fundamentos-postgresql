@@ -1,4 +1,5 @@
-CREATE TABLE venues (
+CREATE TABLE venues
+(
     id         SERIAL,
     name       VARCHAR(50),
     address    VARCHAR(100),
